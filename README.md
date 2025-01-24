@@ -1,4 +1,4 @@
-# Análisis de Datos con Pandas y NumPy  -  (By John Cortés)
+# Análisis de Datos con Pandas y NumPy - By John Cortés
 
 Apuntes del curso de Manipulación y Análisis de Datos con Pandas y NumPy de Platzi. Este repositorio contiene notebooks organizados con ejemplos prácticos y explicaciones detalladas que complementan el aprendizaje de estas potentes bibliotecas de Python.
 
@@ -7,7 +7,7 @@ Apuntes del curso de Manipulación y Análisis de Datos con Pandas y NumPy de Pl
 El repositorio está organizado de la siguiente manera:
 
 ```
-Curso-Pandas-NumPy/
+analisis-datos-pandas-numpy/
 |
 ├── notebooks/
 │   ├── 01-introduccion-a-pandas.ipynb  # Introducción a Pandas
@@ -19,14 +19,6 @@ Curso-Pandas-NumPy/
 ├── README.md       # Documentación del repositorio
 ├── requirements.txt # Dependencias necesarias
 ```
-
-### Notebooks
-- **01-introduccion-a-pandas.ipynb**: Conceptos básicos y primeras operaciones con Pandas.
-- **02-funciones-basicas-numpy.ipynb**: Uso de las funciones esenciales de NumPy para trabajar con arrays.
-
-### Datasets
-Incluye archivos de datos pequeños para realizar ejemplos prácticos. 
-Si el dataset es muy grande, puedes proporcionar un enlace para descargarlo aparte.
 
 ## Requisitos
 
