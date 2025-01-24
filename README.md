@@ -1,4 +1,4 @@
-# Manipulación y Análisis de Datos con Pandas y NumPy
+# Manipulación y Análisis de Datos con Pandas y NumPy (By John Cortés)
 
 Apuntes del curso de Manipulación y Análisis de Datos con Pandas y NumPy de Platzi. Este repositorio contiene notebooks organizados con ejemplos prácticos y explicaciones detalladas que complementan el aprendizaje de estas potentes bibliotecas de Python.
 
