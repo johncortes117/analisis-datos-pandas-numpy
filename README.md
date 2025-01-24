@@ -46,12 +46,12 @@ conda install numpy pandas jupyter
 
 1. Clona este repositorio en tu equipo:
    ```bash
-   git clone https://github.com/tuusuario/Curso-Pandas-NumPy.git
+   git clone https://github.com/johncortes117/analisis-datos-pandas-numpy.git
    ```
 
 2. Accede a la carpeta del repositorio:
    ```bash
-   cd Curso-Pandas-NumPy
+   cd analisis-datos-pandas-numpy
    ```
 
 3. Asegúrate de tener instaladas las dependencias necesarias:
