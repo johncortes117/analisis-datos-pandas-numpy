@@ -10,8 +10,8 @@ El repositorio está organizado de la siguiente manera:
 analisis-datos-pandas-numpy/
 |
 ├── notebooks/
-│   ├── 01-introduccion-a-pandas.ipynb  # Introducción a Pandas
-│   ├── 02-funciones-basicas-numpy.ipynb # Funciones básicas de NumPy
+│   ├── numpy.ipynb  # Introducción a NumPy
+│   ├── pandas.ipynb # Introducción a Pandas
 │
 ├── datasets/
 │   ├── ejemplo.csv # Archivos de datos utilizados en los notebooks
