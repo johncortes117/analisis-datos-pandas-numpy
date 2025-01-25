@@ -20,28 +20,6 @@ analisis-datos-pandas-numpy/
 ├── requirements.txt # Dependencias necesarias
 ```
 
-## Requisitos
-
-Para ejecutar los notebooks, necesitas instalar las siguientes dependencias:
-
-```
-numpy
-pandas
-jupyter
-```
-
-Puedes instalarlas ejecutando:
-
-```bash
-pip install -r requirements.txt
-```
-
-O utilizando conda:
-
-```bash
-conda install numpy pandas jupyter
-```
-
 ## Uso del repositorio
 
 1. Clona este repositorio en tu equipo:
@@ -54,17 +32,21 @@ conda install numpy pandas jupyter
    cd analisis-datos-pandas-numpy
    ```
 
-3. Asegúrate de tener instaladas las dependencias necesarias:
+3. **Configura el entorno con Conda:**
+   Asegúrate de tener Conda instalado. Luego, crea el entorno a partir del archivo `environment.yml`:
    ```bash
-   pip install -r requirements.txt
+   conda env create -f environment.yml
    ```
 
-4. Inicia Jupyter Notebook:
+4. **Activa el entorno:**
    ```bash
-   jupyter notebook
+   conda activate data-env
    ```
 
-5. Abre y explora los notebooks en el navegador.
+5. **Inicia Jupyter Notebook o JupyterLab:**
+   ```bash
+   jupyter lab
+   ```
 
 ## Contribuciones
 
@@ -72,7 +54,7 @@ Si deseas contribuir con mejoras o ejemplos adicionales, sientete libre de abrir
 
 ## Licencia
 
-Este repositorio se encuentra bajo la licencia MIT. Si usas este contenido, no olvides dar crédito.
+Este repositorio se encuentra bajo la licencia MIT.
 
 ---
 

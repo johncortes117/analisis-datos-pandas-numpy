@@ -1,0 +1,10 @@
+name: data-env
+channels:
+  - https://repo.anaconda.com/pkgs/main
+  - https://repo.anaconda.com/pkgs/r
+dependencies:
+  - jupyter
+  - numpy
+  - pandas
+  - python
+prefix: /home/johnu/anaconda3/envs/data-env
