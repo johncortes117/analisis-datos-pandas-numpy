@@ -54,7 +54,7 @@ Si deseas contribuir con mejoras o ejemplos adicionales, sientete libre de abrir
 
 ## Licencia
 
-Este repositorio se encuentra bajo la licencia MIT.
+Este repositorio se encuentra bajo la licencia [MIT](LICENSE).
 
 ---
 
