@@ -58,4 +58,4 @@ Este repositorio se encuentra bajo la licencia MIT.
 
 ---
 
-🚀 **Aprender nunca termina. ¡Disfruta el proceso de aprendizaje con Pandas y NumPy!**
+🚀 **El aprendizaje nunca termina nunca termina**
